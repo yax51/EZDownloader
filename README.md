@@ -18,3 +18,7 @@ This software is licensed under the [Creative Commons Attribution-NonCommercial-
 
 © 2025 Patrick Davis. All rights reserved.
 
+
+[Screenshot 1](https://imgur.com/a/PWPtPu6)
+
+[Screenshot 2](https://imgur.com/a/TaUXMUb)
