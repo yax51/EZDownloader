@@ -8,3 +8,12 @@ Any software downloaded using this tool remains the intellectual property of its
 
 If you are a software publisher and would like your application removed from this tool,  
 please contact me via GitHub and I will address it promptly.
+
+## License
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This software is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+© 2025 Patrick Davis. All rights reserved.
+
