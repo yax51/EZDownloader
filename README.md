@@ -1,13 +1,17 @@
 ## ⚠️ Disclaimer
 
-**EZDownload** is a third-party utility designed to simplify the installation of popular software.  
-I am not affiliated with, nor do I claim ownership of, any of the applications available through this tool.
+**EZDownload** is a lightweight, no-installation-needed Windows tool that lets you quickly download and install popular software with just a few clicks. Whether you're setting up a fresh system or managing multiple machines, EZDownload helps automate common installs and streamline setup.
 
-All **copyrights**, **trademarks**, **product names**, and **company names or logos** are the property of their respective owners.  
-Any software downloaded using this tool remains the intellectual property of its original creators.
+## 🔧 What It Does
+- Downloads trusted software directly from official or verified sources  
+- Automatically installs apps (with an option for silent installs when possible)  
+- Organizes software by categories  
+- Lets you select and queue multiple installs  
 
-If you are a software publisher and would like your application removed from this tool,  
-please contact me via GitHub and I will address it promptly.
+
+> ⚠️ **Disclaimer:** I am not the owner of any of the third-party software included. All rights, trademarks, and ownership belong to their respective owners. If you are a software publisher and would like your application removed from this tool, 
+please contact me via GitHub and I will address it promptly. 
+
 
 Please report any issues, suggestions, or feedback to: [EZDownloader Discussion](https://github.com/yax51/EZDownloader/discussions)
 ## License
@@ -22,3 +26,15 @@ This software is licensed under the [Creative Commons Attribution-NonCommercial-
 [Screenshot 1](https://imgur.com/a/PWPtPu6)
 
 [Screenshot 2](https://imgur.com/a/TaUXMUb)
+
+
+
+---
+
+## 💬 Feedback & Support
+
+If you encounter any issues, have feature requests, or want to provide feedback:
+
+- 🐛 [Report an issue](https://github.com/yax51/EZDownloader/issues)
+- 💡 [Suggest a feature](https://github.com/yax51/EZDownloader/issues/new?template=feature_request.md)
+- 📬 Contact me on GitHub: [@yax51](https://github.com/yax51)
