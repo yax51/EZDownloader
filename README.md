@@ -1,6 +1,4 @@
-## ⚠️ Disclaimer
-
-**EZDownload** is a lightweight, no-installation-needed Windows tool that lets you quickly download and install popular software with just a few clicks. Whether you're setting up a fresh system or managing multiple machines, EZDownload helps automate common installs and streamline setup.
+**EZDownloader** is a lightweight, no-installation-needed Windows tool that lets you quickly download and install popular software with just a few clicks. Whether you're setting up a fresh system or managing multiple machines, EZDownload helps automate common installs and streamline setup.
 
 ## 🔧 What It Does
 - Downloads trusted software directly from official or verified sources  
