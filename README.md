@@ -8,7 +8,7 @@
 
 
 > ⚠️ **Disclaimer:** I am not the owner of any of the third-party software included. All rights, trademarks, and ownership belong to their respective companies. If you are a software publisher and would like your application removed from this tool, 
-please contact me via GitHub and I will address it promptly. 
+please contact me via GitHub and I will address it promptly. See AppList.txt for list of current applications.
 
 
 ---
