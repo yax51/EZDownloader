@@ -1,0 +1,35 @@
+Android Studio
+Battle for Wesnoth
+Battle.net
+Bitwarden
+CCleaner
+Curseforge
+Discord
+Disney+
+DosBox
+EA App
+Gimp
+Google Chrome
+Greenshot
+Kindle
+Kodi
+MalwareBytes
+Microsoft Edge
+Microsoft Office
+Mozilla Firefox
+Notepad++
+OBS Studio
+OpenOffice
+Opera
+Overwolf
+qBitTorrent
+Rainmeter
+Revo Uninstaller
+Roblox Player
+Spotify
+Steam
+uTorrent
+Virtualbox
+Visual Studio (community)
+VLC
+Windows Media Creation Tool
