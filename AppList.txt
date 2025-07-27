@@ -1,0 +1,65 @@
+Adobe Acrobat Reader
+Android Studio
+Battle for Wesnoth
+Battle.net
+Bitwarden
+Blender
+Bluestacks
+Brave
+Calibre
+CapCut
+CCleaner
+ChatGPT
+Curseforge
+Dell Command Update
+Discord
+Disney+
+Docker Desktop
+DosBox
+EA App
+Eclipse IDE
+Epic Launcher
+GameMaker
+Gimp
+GOG Galaxy
+Google Chrome
+Greenshot
+Handbrake
+HWiNFO®
+Itch.io
+iTunes
+Kindle
+Kodi
+League of Legends (NA)
+Lively Wallpaper
+MalwareBytes
+Microsoft Edge
+Microsoft Office
+Microsoft SQL Server 2022 Express
+Microsoft SQL Server Management Studio 21
+Microsoft Visual Studio Code
+Minecraft
+Mozilla Firefox
+Notepad++
+OBS Studio
+OpenOffice
+Opera
+Oracle VM VirtualBox
+Pidgin
+qBitTorrent
+Rainmeter
+Raspberry Pi Imager
+RetroArch
+Revo Uninstaller
+Roblox Player
+Spotify
+Steam
+Sublime Text
+Tor Browser
+uTorrent
+Valorant (NA)
+Visual Studio (community)
+VLC
+Windows Media Creation Tool
+Zoom Workplace
+ZSNES
