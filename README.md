@@ -7,7 +7,12 @@
 - Lets you select and queue multiple installs  
 
 
-> ⚠️ **Disclaimer:** I am not the owner of any of the third-party software included. All rights, trademarks, and ownership belong to their respective companies. If you are a software publisher and would like your application removed from this tool, 
+> ⚠️ **Disclaimer:** I am not the owner of any of the third-party software included. All rights, trademarks, and ownership belong to their respective companies.
+> 
+>I do not provide any account and/or login information for applications that may require a login for full functionality.
+Any applications requiring a login/account is the sole responsibility of the account holder.
+> 
+> If you are a software publisher and would like your application removed from this tool, 
 please contact me via GitHub and I will address it promptly. See AppList.txt for list of current applications.
 
 
