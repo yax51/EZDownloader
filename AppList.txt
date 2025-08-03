@@ -6,9 +6,9 @@ Bitwarden
 Blender
 Bluestacks
 Brave
+CCleaner
 Calibre
 CapCut
-CCleaner
 ChatGPT
 Curseforge
 Dell Command Update
@@ -17,28 +17,18 @@ Disney+
 Docker Desktop
 DosBox
 EA App
-Eclipse IDE
-Epic Launcher
-GameMaker
 Gimp
-GOG Galaxy
 Google Chrome
 Greenshot
-Handbrake
 HWiNFO®
-Itch.io
-iTunes
+Handbrake
 Kindle
 Kodi
-League of Legends (NA)
 Lively Wallpaper
 MalwareBytes
 Microsoft Edge
 Microsoft Office
 Microsoft SQL Server 2022 Express
-Microsoft SQL Server Management Studio 21
-Microsoft Visual Studio Code
-Minecraft
 Mozilla Firefox
 Notepad++
 OBS Studio
@@ -46,20 +36,20 @@ OpenOffice
 Opera
 Oracle VM VirtualBox
 Pidgin
-qBitTorrent
 Rainmeter
 Raspberry Pi Imager
 RetroArch
 Revo Uninstaller
 Roblox Player
+SQL Server Management Studio 21
 Spotify
 Steam
-Sublime Text
 Tor Browser
-uTorrent
-Valorant (NA)
-Visual Studio (community)
 VLC
+Visual Studio (community)
 Windows Media Creation Tool
-Zoom Workplace
 ZSNES
+Zoom Workplace
+iTunes
+qBitTorrent
+uTorrent
