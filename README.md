@@ -1,4 +1,4 @@
-**EZDownloader** is a lightweight, no-installation-needed Windows tool that lets you quickly download and install popular software with just a few clicks. Whether you're setting up a fresh system or managing multiple machines, EZDownload helps automate common installs and streamline setup.
+**EZDownloader** is a lightweight Windows tool that lets you quickly download and install popular software with just a few clicks. Whether you're setting up a fresh system or managing multiple machines, EZDownload helps automate common installs and streamline setup.
 
 ## 🔧 What It Does
 - Downloads trusted software directly from official or verified sources  
@@ -27,9 +27,9 @@ If you encounter any issues, have feature requests, or want to provide feedback:
 - 📬 Contact me on GitHub: [@yax51](https://github.com/yax51)
 
 
-[Screenshot 1](https://imgur.com/a/PWPtPu6)
+[Screenshot 1](https://imgur.com/a/LdVG4LN)
 
-[Screenshot 2](https://imgur.com/a/TaUXMUb)
+[Screenshot 2](https://imgur.com/a/BUI5gkY)
 
 ---
 
@@ -38,3 +38,4 @@ If you encounter any issues, have feature requests, or want to provide feedback:
 This software is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 © 2025 Patrick Davis. All rights reserved.
+
