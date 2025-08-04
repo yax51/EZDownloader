@@ -7,12 +7,12 @@
 - Lets you select and queue multiple installs  
 
 
-> ⚠️ **Disclaimer:** I am not the owner of any of the third-party software included. All rights, trademarks, and ownership belong to their respective companies.
+> ⚠️ **Disclaimer:** I am not the owner of any of the third-party software included. All rights, trademarks, and ownership belong to their respective owners.
 > 
 >I do not provide any account and/or login information for applications that may require a login for full functionality.
 Any applications requiring a login/account is the sole responsibility of the account holder.
 > 
-> If you are a software publisher and would like your application removed from this tool, 
+> If you are a software publisher and would like your application removed or added to this tool, 
 please contact me via GitHub and I will address it promptly. See AppList.txt for list of current applications.
 
 
@@ -38,4 +38,5 @@ If you encounter any issues, have feature requests, or want to provide feedback:
 This software is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 © 2025 Patrick Davis. All rights reserved.
+
 
