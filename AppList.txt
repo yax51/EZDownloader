@@ -13,7 +13,6 @@ ChatGPT
 Curseforge
 Dell Command Update
 Discord
-Disney+
 Docker Desktop
 DosBox
 EA App
@@ -53,3 +52,4 @@ Zoom Workplace
 iTunes
 qBitTorrent
 uTorrent
+
