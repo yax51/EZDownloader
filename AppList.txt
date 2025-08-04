@@ -1,5 +1,7 @@
+7-Zip
 Adobe Acrobat Reader
 Android Studio
+Asus Armoury Crate
 Battle for Wesnoth
 Battle.net
 Bitwarden
@@ -11,27 +13,42 @@ Calibre
 CapCut
 ChatGPT
 Curseforge
+Deezer
 Dell Command Update
 Discord
+Disney+
 Docker Desktop
 DosBox
+Dropbox
 EA App
+Eclipse IDE
+Emulationstation
+Epic Launcher
+GOG Galaxy
+GameMaker
 Gimp
 Google Chrome
+Greenfoot
 Greenshot
+Guitar Pro 8
 HWiNFO®
 Handbrake
+Itch.io
 Kindle
 Kodi
+League of Legends (NA)
 Lively Wallpaper
 MalwareBytes
 Microsoft Edge
 Microsoft Office
 Microsoft SQL Server 2022 Express
+Microsoft Visual Studio Code
+Minecraft
 Mozilla Firefox
 Notepad++
 OBS Studio
 OpenOffice
+OpenVPN
 Opera
 Oracle VM VirtualBox
 Pidgin
@@ -40,16 +57,24 @@ Raspberry Pi Imager
 RetroArch
 Revo Uninstaller
 Roblox Player
+Rufus
 SQL Server Management Studio 21
+Slack
 Spotify
 Steam
+Sublime Text
+Surfshark
 Tor Browser
+Unity
 VLC
+Valorant (NA)
 Visual Studio (community)
+Waterfox
+Waterfox classic
+Widelands
 Windows Media Creation Tool
 ZSNES
 Zoom Workplace
 iTunes
 qBitTorrent
 uTorrent
-
